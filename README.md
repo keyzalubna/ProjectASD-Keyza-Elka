@@ -1,5 +1,6 @@
 # ProjectASD-Keyza-Elka
-Project Report: Implementation of Abstract Data Type (ADT) Medicine Stock Management Program (2025)
+Project Report: Implementation of Abstract Data Type (ADT) Medicine Stock Management Program
+Algorithm and Data Structure C (2025)
 
 **Group Members:**
 1. Keyza Lubna Sitanggang (NIM: 23/518423/TK/57070 )
